@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm working as a technical consultant and developer at [Doclogic](https://www.doclogic.nl) | Part of [Decos Information Solutions](https://www.decos.com).
+My specialties are datamigration and creating custom integrations with Decos JOIN Case and Document.
 <!--
 **michielosinga/michielosinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
